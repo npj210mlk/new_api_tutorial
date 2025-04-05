@@ -1,0 +1,1 @@
+Python-dotenv - lets you use the private variables in your .env file. 'pip install python-dotenv'
