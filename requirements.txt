@@ -1,1 +1,2 @@
-Python-dotenv - lets you use the private variables in your .env file. 'pip install python-dotenv'
+Python-dotenv - lets you use the private variables in your .env file. install with 'pip install python-dotenv'
+Tiktoken - python library that breaks words down into tokens. install with 'pip install tiktoken'
